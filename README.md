@@ -20,5 +20,5 @@ Interested in software development, building real-world systems, and machine lea
 - ATM Machine Simulation
 
 ## 🔗 Links
-- LinkedIn: [add your link]
-- Portfolio: [add your link]
+- LinkedIn: []
+- Portfolio: []
